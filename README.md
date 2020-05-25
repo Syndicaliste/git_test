@@ -1,0 +1,1 @@
+This is Syndicaliste's first git project!
